@@ -1,5 +1,7 @@
 # ftk-2
 
+_____________cammands____________________
+
 apt update -y && apt upgrade -y
 
 
@@ -19,4 +21,4 @@ python ftk2.py
 
 
 
-#thanks
+
